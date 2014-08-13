@@ -1,0 +1,15 @@
+{
+    "name": "instacrawler",
+    "version": "0.0.1",
+    "description": "instagram image crawler",
+    "dependencies": {
+        "request": "*",
+        "async": "*",
+        "commander": "*",
+        "mkdirp": "*"
+    },
+    "author": {
+      "name": "Andrey 'Drago' Afoninsky",
+      "email": "vkfont@gmail.com"
+    }
+}
